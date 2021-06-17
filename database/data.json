@@ -1,0 +1,102 @@
+[
+  {
+    "customerID": "1",
+    "fullName": "Mary Diego",
+    "transactionsByMonth": {
+      "1": [40, 70, 80, 110],
+      "2": [200],
+      "3": [80, 10, 900]
+    }
+  },
+  {
+    "customerID": "2",
+    "fullName": "Peter Roberts",
+    "transactionsByMonth": {
+      "1": [60, 170, 280, 10],
+      "2": [50, 60, 150],
+      "3": [30, 90, 600, 900]
+    }
+  },
+  {
+    "customerID": "3",
+    "fullName": "Ann Smith",
+    "transactionsByMonth": {
+      "1": [10, 55, 170, 20],
+      "2": [87, 145, 135, 220, 700],
+      "3": [500, 30, 110]
+    }
+  },
+  {
+    "customerID": "4",
+    "fullName": "John Reginald",
+    "transactionsByMonth": {
+      "1": [640],
+      "2": [10, 500, 10, 26, 68],
+      "3": [74, 5, 5, 756, 40, 25, 546]
+    }
+  },
+  {
+    "customerID": "5",
+    "fullName": "Terrance Powell",
+    "transactionsByMonth": {
+      "1": [99],
+      "2": [200],
+      "3": [1200]
+    }
+  },
+  {
+    "customerID": "6",
+    "fullName": "Jeremiah Walker",
+    "transactionsByMonth": {
+      "1": [55.35, 99.02],
+      "2": [200.50, 112, 10],
+      "3": [3200, 5, 1]
+    }
+  },
+  {
+    "customerID": "7",
+    "fullName": "Tony Cox",
+    "transactionsByMonth": {
+      "1": [991, 1, 1000],
+      "2": [787, 15],
+      "3": [555]
+    }
+  },
+  {
+    "customerID": "8",
+    "fullName": "Sherri Armstrong",
+    "transactionsByMonth": {
+      "1": [50.5],
+      "2": [50.99],
+      "3": [20]
+    }
+  },
+  {
+    "customerID": "9",
+    "fullName": "Kristin Foster",
+    "transactionsByMonth": {
+      "1": [10],
+      "2": [0],
+      "3": [51]
+    }
+  },
+  {
+    "customerID": "10",
+    "fullName": "Clayton Stone",
+    "transactionsByMonth": {
+      "1": [100],
+      "2": [50],
+      "3": [0]
+    }
+  },
+  {
+    "customerID": "11",
+    "fullName": "Carla Soto",
+    "transactionsByMonth": {
+      "1": [0],
+      "2": [0],
+      "3": [0]
+    }
+  }
+]
+
